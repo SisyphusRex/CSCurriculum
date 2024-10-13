@@ -1,0 +1,17 @@
+Math:
+    Calc 1 derivatives
+    Calc 2 Integrals
+    Calc 3 vector/multivariable
+    Differential Equations
+    Linear Algebra
+
+CS:
+    Algorithmic Design I in Java (intro to programming)
+    Intro to Scripting: Python
+    CS50X
+    CS50P
+    Advanced Programming in Python
+
+Science:
+    University Physics I
+    University Physics II

@@ -1,0 +1,30 @@
+MIT CompSci Curriculum
+https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-3-computer-science-and-engineering/
+
+Programming:
+*May skip this one, not in MIT's CompSci required curriculum
+    MIT 6.0002 Introduction to Computational Thinking and Data Science
+    https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+
+
+Mathematics:
+    MIT 6.042J Mathematics for Computer Science
+    https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
+
+Algorithms and Data Structures:
+    MIT 6.006: Introduction to Algorithms
+    https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/
+
+    MIT 6.046J: Design and Analysis of Algorithms
+    https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/
+
+Computer Architecture:
+    MIT 6.004 Computation Structures
+    https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/
+
+Software:
+    MIT 6.005 Software Construction
+
+Systems:
+    MIT 6.033 Computer System Engineering
+    https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/
